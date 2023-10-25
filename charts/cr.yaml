@@ -1,0 +1,5 @@
+charts-repo: https://kit-ar.github.io/helm-charts
+owner: kit-ar
+git-repo: helm-charts
+# sign: true
+# key:
