@@ -2,7 +2,7 @@ apiVersion: v2
 name: raw
 description: "Render raw kubernetes manifests managed by a helm release"
 type: application
-version: 2.0.1
+version: 2.0001.23102501 # 2.0.1
 appVersion: 1.0.0
 home: "https://github.com/kit-ar/helm-charts/tree/master/charts/raw"
 keywords:
