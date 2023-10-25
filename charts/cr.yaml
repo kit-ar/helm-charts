@@ -1,4 +1,4 @@
-charts-repo: https://kit-ar.github.io/helm-charts
+charts-repo: http://pub.helm-charts.kit-ar.net/charts/
 owner: kit-ar
 git-repo: helm-charts
 # sign: true
