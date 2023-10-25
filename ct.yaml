@@ -1,12 +1,12 @@
 ## Reference: https://github.com/helm/chart-testing/blob/master/doc/ct_lint-and-install.md
 ##
 remote: origin
-target-branch: master
+target-branch: kit-ar/main
 chart-dirs:
   - charts
 chart-repos:
   - buttahtoast=https://buttahtoast.github.io/helm-charts/
-  - bedag=https://bedag.github.io/helm-charts/
+  # - bedag=https://bedag.github.io/helm-charts/
   - bitnami=https://charts.bitnami.com/bitnami
 validate-chart-schema: true
 validate-maintainers: false
