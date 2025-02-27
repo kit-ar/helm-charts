@@ -3,6 +3,27 @@ entries:
   raw:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2025-02-27T10:55:16.806298561Z"
+    dependencies:
+    - name: library
+      repository: https://buttahtoast.github.io/helm-charts/
+      version: 3.0.0-rc.3
+    description: Render raw kubernetes manifests managed by a helm release
+    digest: de737ced18b3639f6f72e63aee409c056e6d890bde63bd58393a239e1aca9380
+    home: https://github.com/kit-ar/helm-charts/tree/master/charts/raw
+    keywords:
+    - raw
+    - templates
+    - resources
+    name: raw
+    sources:
+    - https://github.com/kit-ar/helm-charts/tree/master/charts/raw
+    type: application
+    urls:
+    - https://github.com/kit-ar/helm-charts/releases/download/raw-2.1002.250201/raw-2.1002.250201.tgz
+    version: 2.1002.250201
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2023-10-25T16:05:39.167803204Z"
     dependencies:
     - name: library
@@ -22,4 +43,4 @@ entries:
     urls:
     - https://github.com/kit-ar/helm-charts/releases/download/raw-2.0001.23102501/raw-2.0001.23102501.tgz
     version: 2.0001.23102501
-generated: "2023-10-25T16:05:39.167807304Z"
+generated: "2025-02-27T10:55:16.806312768Z"
